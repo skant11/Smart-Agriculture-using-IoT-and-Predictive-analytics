@@ -8,4 +8,4 @@ As the name specifies “Predictive Analytics and Green House Automation using I
 [IOSA Presentation](https://prezi.com/wtm4oijqyj_9/final-predictive-analytics-and-green-house-automation-using-internet-of-things-for-remote-monitoring-and-alert-generation/)
 
 ### SRS Documentation here
-[IOSA SRS Document](https://github.com/kantsk11/Smart-Agriculture-using-IoT-and-Predictive-analytics/blob/master/Project_SE_Gr_4_3.pdf) (use firefox to view in the browser)
+[IOSA SRS Document](https://github.com/kantsk11/Smart-Agriculture-using-IoT-and-Predictive-analytics/blob/master/Project_SE_Gr_4_3.pdf) (use firefox to view within the browser)
